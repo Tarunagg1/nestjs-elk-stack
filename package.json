@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "winston-logstash": "^1.2.1"
+  }
+}
